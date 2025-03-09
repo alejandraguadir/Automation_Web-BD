@@ -1,0 +1,38 @@
+# Directorios de compilación y dependencias
+target/
+out/
+bin/
+build/
+.gradle/
+.mvn/
+
+# Archivos de configuración y caché de IntelliJ IDEA y Eclipse
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Archivos de logs y reportes generados por Serenity
+logs/
+serenity/
+serenity-report/
+serenity-summary.html
+
+# Archivos de caché y temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Dependencias descargadas por Maven y Gradle
+.m2/
+.gradle/
+
+
+# Archivos de configuración de entorno
+.env
+*.properties.local
