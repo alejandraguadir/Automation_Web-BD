@@ -1,0 +1,13 @@
+# 🛠️ Proyecto de Automatización con Serenity BDD  
+
+Este proyecto implementa **automatización de pruebas** utilizando **Serenity BDD**, con validaciones en la interfaz web y comparaciones de datos con la base de datos.  
+
+##📌 **Tecnologías y Herramientas**
+- 🖥️ **Serenity BDD** - Framework de automatización basado en Screenplay.  
+- 🌐 **Selenium WebDriver** - Para la interacción con la interfaz web.  
+- 🏗️ **Cucumber** - Para la definición de escenarios en Gherkin.  
+- 🗄️ **Base de Datos MySQL** - Para validaciones con datos reales.  
+- ☕ **Java** - Lenguaje de programación principal.  
+- 📦 **Gradle** - Para la gestión de dependencias y ejecución de pruebas.  
+
+## 🚀 **Estructura del Proyecto**
